@@ -1,4 +1,4 @@
-## Music Manager - Fase 1
+## Media Player - Fase 1
 
 Un semplice progetto in **Java** per la gestione di utenti, canzoni e playlist, sviluppato come esercizio di apprendimento a fasi.  
 
