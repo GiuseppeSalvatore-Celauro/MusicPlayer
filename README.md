@@ -51,7 +51,7 @@ L’obiettivo principale è stato quello di costruire un’interfaccia coerente 
 - **ObservableList** per la gestione dinamica dei dati.
 - **OOP & MVC Pattern** per l’architettura modulare.
 
-## ✨ Autore
+## Autore
 **Giuseppe Salvatore Celauro**  
 Studente / Developer – progetto personale di sviluppo software in JavaFX  
 *Fase 2 completata – ottobre 2025*
