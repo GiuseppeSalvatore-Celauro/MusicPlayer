@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.HBox?>
+
+<HBox fx:id="playlistView" maxHeight="-Infinity" maxWidth="-Infinity" style="-fx-spacing: 20;" minHeight="-Infinity" minWidth="-Infinity" prefWidth="758.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="views.components.PlaylistViewController">
+   <children>
+      <TableView fx:id="playlistTable" prefHeight="361.0" prefWidth="758.0">
+        <columns>
+          <TableColumn fx:id="playlistTitle" prefWidth="550.0" text="Titolo Playlist" />
+          <TableColumn fx:id="playlistAuthor" minWidth="0.0" prefWidth="198.0" text="Autore" />
+        </columns>
+      </TableView>
+   </children>
+</HBox>
